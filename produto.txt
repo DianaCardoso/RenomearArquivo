@@ -1,0 +1,4 @@
+ID1 NOME
+321 Isotopropeno
+654 Carbono
+987 Nitrogenio
