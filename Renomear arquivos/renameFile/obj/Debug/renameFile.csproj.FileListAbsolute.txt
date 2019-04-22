@@ -1,0 +1,7 @@
+C:\Users\chiqu\Documents\C#\rename\renameFile\renameFile\bin\Debug\renameFile.exe.config
+C:\Users\chiqu\Documents\C#\rename\renameFile\renameFile\bin\Debug\renameFile.exe
+C:\Users\chiqu\Documents\C#\rename\renameFile\renameFile\bin\Debug\renameFile.pdb
+C:\Users\chiqu\Documents\C#\rename\renameFile\renameFile\obj\Debug\renameFile.csprojAssemblyReference.cache
+C:\Users\chiqu\Documents\C#\rename\renameFile\renameFile\obj\Debug\renameFile.csproj.CoreCompileInputs.cache
+C:\Users\chiqu\Documents\C#\rename\renameFile\renameFile\obj\Debug\renameFile.exe
+C:\Users\chiqu\Documents\C#\rename\renameFile\renameFile\obj\Debug\renameFile.pdb

@@ -1,7 +1,0 @@
-C:\Users\chiqu\Downloads\App C#\App\App\bin\Debug\App.exe.config
-C:\Users\chiqu\Downloads\App C#\App\App\bin\Debug\App.exe
-C:\Users\chiqu\Downloads\App C#\App\App\bin\Debug\App.pdb
-C:\Users\chiqu\Downloads\App C#\App\App\obj\Debug\App.csprojAssemblyReference.cache
-C:\Users\chiqu\Downloads\App C#\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
-C:\Users\chiqu\Downloads\App C#\App\App\obj\Debug\App.exe
-C:\Users\chiqu\Downloads\App C#\App\App\obj\Debug\App.pdb
